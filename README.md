@@ -50,5 +50,8 @@ Here are the steps we followed to complete the work-day-scheduler
 
 5. And we assigned color coded for past hour, present hour and future hour. For past hours it is colored as grey, present hour colored as red, and future hour colored as green. 
 
+![Screenshot](Images/Capture1.JPG)
+![Screenshot](Images/Capture2.JPG)
+![Screenshot](Images/Capture3.JPG)
 
-
+Here is the deployed page - https://kaviambi.github.io/Work-Day-Planner/
